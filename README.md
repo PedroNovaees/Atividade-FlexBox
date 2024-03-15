@@ -1,2 +1,2 @@
 # Atividade-FlexBox
-Nesta atividade aprendemos o uso e conceitos de flexbox,
+Nesta atividade exercitaremos o uso dos conceitos de flexbox.
